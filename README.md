@@ -9,6 +9,7 @@ This is the place where all my leetcode practiced problems appear.
 ## LINKED LISTS
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|3 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|10 ms|
 
 ## TREES
